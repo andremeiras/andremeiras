@@ -14,7 +14,7 @@ For many years I've worked as a support technician to systems, infrastructure, d
 And so, nowadays, I am transitioning my career to Java Development. 
 
 - 🌱 I’m currently learning Spring Boot, JPA, Hibernate
-- 👯 I’m looking to collaborate on projects that impacts positivelly the people life around the world!
+- 👯 I’m looking to collaborate on projects that could impact the people life around the world positivelly!
 - 🤔 I’m looking for help to get a new job (I'm just unemployed)
 
 ## ⚡ Tech Stack
