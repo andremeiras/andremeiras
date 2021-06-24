@@ -1,11 +1,10 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hello, there! I'm André! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+💻👨‍💻 Java Development | Spring Boot | REST API
 
-### I'm André Meira
-💻👨‍💻 Junior Java Developer
-#### 🔭 #OpenToWork - I’m currently looking for new opportunities.
+[![Linkedin Badge](https://img.shields.io/badge/-Andre_Meira_dos_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremeiras//)](https://in.linkedin.com/in/andremeiras) [![Gmail Badge](https://img.shields.io/badge/-andremeirati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andremeirati@gmail.com)](mailto:andremeirati@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andre_Meira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremeiras//)](https://in.linkedin.com/in/andremeiras) [![Gmail Badge](https://img.shields.io/badge/-andremeirati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andremeirati@gmail.com)](mailto:andremeirati@gmail.com)
-
+# 🔭 #OpenToWork
+#### I’m currently looking for new opportunities.
 
 I've been working with technology since 2006, and this journey started in a cyber cafe where I discovered my passion for IT and love to learn new things. 
 
