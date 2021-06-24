@@ -3,8 +3,7 @@
 
 # Nice to see you here!
 
-### I'm #OpenToWork
-#### Junior Java Developer Job
+### #OpenToWork - <i>Junior Java Developer</i>
 
 - 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on Open Source projects that impact much more people around the world!
