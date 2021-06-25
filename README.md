@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q6Hah6gG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8a2ifr4ornn9koxc2sah.png">
+	<img src="https://i.imgur.com/hlR51zY.png" />
 </p>
 
 
