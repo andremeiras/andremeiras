@@ -26,6 +26,13 @@ Graduado no curso de Análise e Desenvolvimento de Sistemas e pós-graduando na 
 - :coffee: Java8+
 - :leaves: Spring Boot
 - :left_right_arrow: REST API
+- 🌔 Eclipse
+- 🧢 VS Code
+- ☯️ Bootstrap
+- :whale: Docker
+- :frog: Swagger UI
+- 📍 Postman
+- 🐧 Linux Mint
 
 ## :mortar_board: Cursos que estou fazendo
 - **Pós-graduação**: Especialização em Tecnologia Java (UTFPR)
