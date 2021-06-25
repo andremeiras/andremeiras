@@ -33,7 +33,7 @@ Graduado no curso de Análise e Desenvolvimento de Sistemas e pós-graduando na 
 - **Java básico/intermediário**: <a href="loiane.training">Loiane Groner</a>
 
 
-## Projetos que criei
+## :bulb: Projetos pessoais
 
 #### :heavy_check_mark: Seguradora de veículos (REST API)
 
