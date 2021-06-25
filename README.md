@@ -13,7 +13,8 @@ Seja muito bem-vindo(a)!
 ## Sobre mim
 >Me chamo André. :man: :brazil: <br />
 >Atuando desde 2006 com TI, suporte à sistemas, servidores, infra, bancos de dados. <br />
-Graduado no curso de Análise e Desenvolvimento de Sistemas e pós-graduando na <a href="http://pos-graduacao-ead.cp.utfpr.edu.br/java/">Especialização em Tecnologia Java</a> pela UTFPR (*Universidade Tecnológica Federal do Paraná*).
+>Graduado no curso de Análise e Desenvolvimento de Sistemas <br />
+Pós-graduando na <a href="http://pos-graduacao-ead.cp.utfpr.edu.br/java/">Especialização em Tecnologia Java</a> pela UTFPR (*Universidade Tecnológica Federal do Paraná*).
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/andremeiras/andremeiras/issues/new)	
 
