@@ -37,8 +37,6 @@ Pós-graduando na <a href="http://pos-graduacao-ead.cp.utfpr.edu.br/java/">Espec
 
 ## :mortar_board: Cursos que estou fazendo
 - **Pós-graduação**: Especialização em Tecnologia Java (UTFPR)
-- **Santander Bootcamp**: Fullstack Developer (Becas Santander em parceria com a <a href="https://web.digitalinnovation.one">Digital Innovation One</a>)
-- **Java básico/intermediário**: <a href="loiane.training">Loiane Groner</a>
 
 
 ## :bulb: Projetos pessoais
