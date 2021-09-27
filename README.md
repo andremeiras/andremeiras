@@ -7,11 +7,16 @@
 <p align="center"> 
 Seja muito bem-vindo(a) por aqui! 
 	<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-</p>
+</p> 
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andremeiras) [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andremeirati@gmail.com)](mailto:andremeirati@gmail.com)
 
 
 ## Quem sou eu
 >Me chamo André. :man: :brazil: <br />
+
+
+
 >Graduado desde 2016 no curso de Análise e Desenvolvimento de Sistemas da [Faculdade Opet](https://www.opet.com.br/uniopet/graduacao/curso/analise-e-desenvolvimento-de-sistemas-presencial) e atualmente cursando pós-graduação no curso de Especialização em Tecnologia Java pela [UTFPR (*Universidade Tecnológica Federal do Paraná*)](http://pos-graduacao-ead.cp.utfpr.edu.br/java).
 >Atuo desde 2006 com TI, sistemas, servidores, infra, bancos de dados, e mais recentemente com desenvolvimento backend com microserviços e APIs em linguagem Java.<br />
 
@@ -19,22 +24,22 @@ Seja muito bem-vindo(a) por aqui!
 
 ###
 > 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andremeiras) [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andremeirati@gmail.com)](mailto:andremeirati@gmail.com)
 
 
-## :sparkles: O que tenho utilizado ultimamente
-- :coffee: Java8+
+
+## :sparkles: Ferramentas do dia-a-dia
+- :coffee: Java 8/11
 - :leaves: Spring Boot
 - :left_right_arrow: REST API
-- 🌔 Eclipse
+- 🌔 Eclipse / IntelliJ
 - 🧢 VS Code
 - ☯️ Bootstrap
 - :whale: Docker
 - :frog: Swagger UI
 - 📍 Postman
-- 🐧 Linux Mint
+- 🐧 Linux
 
-## :mortar_board: Cursos que estou fazendo
+## :mortar_board: O que estou estudando
 - **Pós-graduação**: Especialização em Tecnologia Java (UTFPR)
 
 ## ⚡ Tech Stack
